@@ -76,7 +76,6 @@ The ratio of cancellations to non-cancellations is higher for resort hotels comp
 
 
 
-Additionally, improving the quality of hotels and services, especially in Portugal, can help reduce the cancellation rate.
 
 
 
