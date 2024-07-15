@@ -1,7 +1,8 @@
 # Hotel-Reservation-Analysis-Using-Python
 # Objective
 
-The primary goal of this project is to analyze the hotel reservation cancellations as well as other factors that have no bearing on their business and yearly revenue generation to increase their efficiency in generating revenue, and for us to offer thorough business advice to address this problem.
+The primary goal of this project is to analyze hotel booking cancellations and other factors that do not impact business and yearly revenue generation. This analysis aims to enhance revenue efficiency and provide comprehensive business advice to address these issues.
+
 # Assumptions
 <ul>
   <li style="list-style-type: disc; font-weight: bold;">The information is still current and can be used to analyze a hotel's possible plans in an efficient manner</li>
@@ -32,6 +33,29 @@ The primary goal of this project is to analyze the hotel reservation cancellatio
 <ul>
   <li style="list-style-type: disc; font-weight: bold;">How will hotels be assisted in making pricing and promotional decisions?</li>
 </ul>
+
+# Hypothesis
+
+<ul>
+  <li style="list-style-type: disc; font-weight: bold;"></li>
+</ul>
+<ul>
+  <li style="list-style-type: disc; font-weight: bold;">More cancellations occur when prices are higher.</li>
+</ul>
+<ul>
+  <li style="list-style-type: disc; font-weight: bold;">When there is a longer waiting list, customers tend to cancel more frequently.</li>
+</ul>
+
+<ul>
+  <li style="list-style-type: disc; font-weight: bold;">The majority of clients are coming from offline travel agents to make their reservations.</li>
+</ul>
+
+
+
+
+
+
+
 
 
 
