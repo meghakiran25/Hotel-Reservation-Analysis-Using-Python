@@ -21,7 +21,19 @@ The primary goal of this project is to analyze the hotel reservation cancellatio
 <ul>
   <li style="list-style-type: disc; font-weight: bold;">Clients make hotel reservations the same year they make cancellations.</li>
 </ul>
+
 # Research Questions
+<ul>
+  <li style="list-style-type: disc; font-weight: bold;">What are the variables that affect hotel reservation cancellations?</li>
+</ul>
+<ul>
+  <li style="list-style-type: disc; font-weight: bold;">How can we make hotel reservations cancellations better?</li>
+</ul>
+<ul>
+  <li style="list-style-type: disc; font-weight: bold;">How will hotels be assisted in making pricing and promotional decisions?</li>
+</ul>
+
+
 
 
 
