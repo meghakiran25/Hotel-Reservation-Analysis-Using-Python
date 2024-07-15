@@ -37,9 +37,6 @@ The primary goal of this project is to analyze hotel booking cancellations and o
 # Hypothesis
 
 <ul>
-  <li style="list-style-type: disc; font-weight: bold;"></li>
-</ul>
-<ul>
   <li style="list-style-type: disc; font-weight: bold;">More cancellations occur when prices are higher.</li>
 </ul>
 <ul>
@@ -50,9 +47,28 @@ The primary goal of this project is to analyze hotel booking cancellations and o
   <li style="list-style-type: disc; font-weight: bold;">The majority of clients are coming from offline travel agents to make their reservations.</li>
 </ul>
 
+ # Insights:
+ 1. There is a significant number of reservations that have not been cancelled. However, 37% of clients have cancelled their reservations, which has a substantial impact on the hotel's earnings.
+2. City hotels experience more bookings compared to resort hotels. This might be because resort hotels are generally more expensive than city hotels.
+3. On certain days, the average daily rate for a city hotel is lower than that of a resort hotel. It is worth noting that resort hotel rates may rise on weekends and holidays.
+4. Both the number of confirmed reservations and the number of cancellations peak in August, whereas January has the highest number of cancellations.
+5. Cancellations are most common when prices are highest and least common when prices are lowest, indicating that the cost of accommodation is a major factor in cancellations.
+6. Portugal is the country with the highest number of reservation cancellations.
+7. Approximately 46% of clients book through online travel agencies, while 27% come from group bookings. Only 4% of clients book hotels directly by visiting them and making reservations.
 
+# Suggestions
+<ul>
+      <li style="list-style-type: circle; font-weight: bold;">Subitem 2.1</li>
+      <li style="list-style-type: circle; font-weight: bold;">Subitem 2.2</li>
+    </ul>
 
+Cancellation rates increase as prices rise. To prevent reservation cancellations, hotels could adjust their pricing strategies by lowering rates for specific hotels based on location and offering discounts to consumers.
 
+The ratio of cancellations to non-cancellations is higher for resort hotels compared to city hotels. Therefore, resort hotels should consider offering reasonable discounts on room prices during weekends or holidays.
+
+In January, hotels can launch campaigns or marketing efforts to increase revenue, as this month sees the highest number of cancellations.
+
+Additionally, improving the quality of hotels and services, especially in Portugal, can help reduce the cancellation rate.
 
 
 
